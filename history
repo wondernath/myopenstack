@@ -686,3 +686,4 @@
   686  cd myopenstack/
   687  git init
   688  history > history
+Test
