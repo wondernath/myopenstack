@@ -1,3 +1,4 @@
+adding a comment
     1  ip addr
     2  ifup ens3
     3  ls /etc/sysconfig/network-scripts/
